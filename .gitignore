@@ -131,3 +131,4 @@ dmypy.json
 # VS Code
 .vscode/
 .idea/
+__init__.py
